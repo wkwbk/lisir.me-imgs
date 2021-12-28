@@ -1,0 +1,19 @@
+{
+  "name": "lisir.me-imgs",
+  "version": "1.0.0",
+  "description": "图床",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "wkwbk",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
