@@ -1,6 +1,6 @@
 {
   "name": "lisir.me-imgs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "图床",
   "main": "index.js",
   "scripts": {
